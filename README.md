@@ -1,5 +1,11 @@
 # Parrot OS Ansible Test Image
 
+[![Github Actions](https://img.shields.io/github/workflow/status/justin-p/docker-parrotos-ansible/CI?label=Github%20Actions&logo=github&style=flat-square)](https://github.com/justin-p/docker-parrotos-ansible/actions)
+[![Docker Pulls](https://img.shields.io/docker/pulls/jperdok/docker-parrotos-ansible?logo=docker&style=flat-square)](https://hub.docker.com/r/jperdok/docker-parrotos-ansible)
+[![Docker Size](https://img.shields.io/docker/image-size/jperdok/docker-parrotos-ansible?logo=docker&sort=date&style=flat-square)](https://hub.docker.com/r/jperdok/docker-parrotos-ansible)
+[![Docker Stars](https://img.shields.io/docker/stars/jperdok/docker-parrotos-ansible?logo=docker&style=flat-square)](https://hub.docker.com/r/jperdok/docker-parrotos-ansible)
+[![Docker Tag](https://img.shields.io/docker/v/jperdok/docker-parrotos-ansible?logo=docker&sort=date&style=flat-square)](https://hub.docker.com/r/jperdok/docker-parrotos-ansible)
+
 Parrot OS Core Docker container for Ansible playbook and role testing. This is heavily based of the work done by [geerlingguy](https://github.com/geerlingguy).
 
 ## Tags
