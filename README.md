@@ -1,6 +1,6 @@
 # Parrot OS Ansible Test Image
 
-Parrot OS Core Docker container for Ansible playbook and role testing. This is heavily based of the work done buy [geerlingguy](https://github.com/geerlingguy).
+Parrot OS Core Docker container for Ansible playbook and role testing. This is heavily based of the work done by [geerlingguy](https://github.com/geerlingguy).
 
 ## Tags
 
