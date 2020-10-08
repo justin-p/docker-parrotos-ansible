@@ -1,9 +1,13 @@
-name: ci
+name: CI
 
 on:
   schedule:
     - cron: '0 16 * * *'
   push:
+    paths-ignore:
+      - '.github/**'
+      - 'README.md'
+      - 'LICENSE'    
     branches:
       - '**'
     tags:
