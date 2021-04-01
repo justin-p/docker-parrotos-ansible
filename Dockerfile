@@ -1,4 +1,4 @@
-FROM parrotsec/core
+FROM parrotsec/core:base-rolling-amd64
 LABEL maintainer="Justin Perdok"
 
 ENV DEBIAN_FRONTEND noninteractive
